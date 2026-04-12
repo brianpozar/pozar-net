@@ -1,0 +1,4 @@
+theme = "congo"
+baseURL = "https://www.pozar.net/"
+languageCode = "en-us"
+title = "pozar.net"
