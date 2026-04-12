@@ -26,6 +26,11 @@
   weight = 30
 
 [[main]]
+  name = "Resume"
+  pageRef = "cv"
+  weight = 30
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
@@ -36,6 +41,8 @@
   weight = 100
   [main.params]
     action = "locale"
+
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
