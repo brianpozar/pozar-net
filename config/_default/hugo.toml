@@ -3,6 +3,9 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 # baseURL = "https://your_domain.com/"
+
+title = "Brian Pozar"
+
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true

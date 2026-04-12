@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Congo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Congo</description>
+    <title>Brian Pozar</title>
+    <link>//localhost:52197/</link>
+    <description>Recent content on Brian Pozar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Apr 2026 19:46:15 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:52197/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>//localhost:52197/posts/hello-world/</link>
       <pubDate>Sat, 11 Apr 2026 19:46:15 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>//localhost:52197/posts/hello-world/</guid>
       <description></description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>//localhost:52197/cv/</link>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>//localhost:52197/cv/</guid>
       <description></description>
     </item>
   </channel>

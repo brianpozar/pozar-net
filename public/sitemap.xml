@@ -4,28 +4,28 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>//localhost:52197/</loc>
             <lastmod>2026-04-11T19:46:15-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/hello-world/</loc>
+            <loc>//localhost:52197/posts/hello-world/</loc>
             <lastmod>2026-04-11T19:46:15-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
+            <loc>//localhost:52197/posts/</loc>
             <lastmod>2026-04-11T19:46:15-07:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/cv/</loc>
+            <loc>//localhost:52197/cv/</loc>
             <lastmod>2026-04-11T00:00:00+00:00</lastmod>
           </url>
     

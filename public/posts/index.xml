@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Congo</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Congo</description>
+    <title>Posts on Brian Pozar</title>
+    <link>//localhost:52197/posts/</link>
+    <description>Recent content in Posts on Brian Pozar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Apr 2026 19:46:15 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:52197/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>//localhost:52197/posts/hello-world/</link>
       <pubDate>Sat, 11 Apr 2026 19:46:15 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>//localhost:52197/posts/hello-world/</guid>
       <description></description>
     </item>
   </channel>
