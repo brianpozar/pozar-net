@@ -22,8 +22,9 @@ fingerprintAlgorithm = "sha256"
 
 [author]
   name = "Brian Pozar"
-  headline = "Aviation, tech, and whatever else I'm into"
-
+  headline = "Aviation, tech, business, watches, fragrances, woodworking, and more"
+  image = "avatar.png"
+  
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
